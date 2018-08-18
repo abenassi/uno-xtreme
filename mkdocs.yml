@@ -4,7 +4,7 @@ site_description: Versión potenciada NO oficial de las [reglas del UNO](http://
 site_author: Argentinian Kiwis 2008
 repo_url: https://github.com/abenassi/uno-xtreme/
 
-pages:
+nav:
   - Inicio: index.md
   - Reglas básicas: basic_rules.md
   - Penalidades: penalties.md
@@ -12,4 +12,5 @@ pages:
   - Última jugada: last_play.md
   - La regla democrática: democratic_rule.md
 
-theme: readthedocs
+theme:
+  name: 'material'

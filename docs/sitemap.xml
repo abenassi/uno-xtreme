@@ -1,52 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
-     <loc>/</loc>
+     <loc>None</loc>
      <lastmod>2018-08-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/basic_rules/</loc>
+     <loc>None</loc>
      <lastmod>2018-08-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/penalties/</loc>
+     <loc>None</loc>
      <lastmod>2018-08-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/principles/</loc>
+     <loc>None</loc>
      <lastmod>2018-08-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/last_play/</loc>
+     <loc>None</loc>
      <lastmod>2018-08-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/democratic_rule/</loc>
+     <loc>None</loc>
      <lastmod>2018-08-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
 </urlset>
