@@ -1,4 +1,8 @@
-site: Uno Xtreme
+site_name: Uno Xtreme
+# site_url: http://apis.datos.gob.ar/series/
+site_description: Versión potenciada NO oficial de las [reglas del UNO](http://www.uno-juego.es/reglas-del-juego/).
+site_author: Argentinian Kiwis 2008
+repo_url: https://github.com/abenassi/uno-xtreme/
 
 nav:
   - Inicio: index.md
@@ -7,3 +11,5 @@ nav:
   - Principios del juego: principles.md
   - Última jugada: last_play.md
   - La regla democrática: democratic_rule.md
+
+theme: readthedocs
