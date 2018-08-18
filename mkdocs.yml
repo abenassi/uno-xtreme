@@ -1,0 +1,9 @@
+site: Uno Xtreme
+
+nav:
+  - Inicio: index.md
+  - Reglas básicas: basic_rules.md
+  - Penalidades: penalties.md
+  - Principios del juego: principles.md
+  - Última jugada: last_play.md
+  - La regla democrática: democratic_rule.md
